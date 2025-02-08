@@ -1,31 +1,53 @@
-# NASA-Orrery-Model-of-Planets
-A project Contributed to NASA on Interactive Orrery Model of planets
-All rights reserved.
+```markdown
+# NASA Orrery Model of Planets
+
+An interactive, real-time orrery that visually simulates planetary motions and orbits with accurate positions and speeds. This project was contributed to NASA as part of an initiative to create an engaging and educational planetary model.
+
+## 🚀 Features
+- Realistic planetary movements and orbital paths.
+- Enhanced animation performance with optimized rendering efficiency.
+- Fully responsive design for seamless viewing on all devices.
+
+## 🛠️ Technologies Used
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Three.js** (for 3D visualization)
+
+## 📌 How to Run the Project
+
+Follow these steps to set up and run the interactive orrery model on your local machine:
+
+```sh
+# Clone the repository
+git clone https://github.com/your-username/dynamic-orrery.git
+
+# Navigate to the project folder
+cd dynamic-orrery
+
+# Open the main HTML file in your browser
+# Locate `home.html` in the project directory.
+# Open it in any modern web browser to start the simulation.
+```
+
+## 🔧 Future Improvements
+- Adding more planets and moons to expand the solar system model.
+- Introducing adjustable time scales for faster or slower orbital views.
+- Implementing additional celestial phenomena like asteroids and comets.
+
+## 🤝 Contributing
+We welcome contributions! Feel free to:
+- Open issues for bug reports or feature requests.
+- Submit pull requests with improvements or new features.
+
+## ⚠️ License and Usage
 This code is proprietary and confidential. Unauthorized use, copying, modification, or distribution is strictly prohibited without prior written permission from the author.
-# dynamic_orrery_website
-# Dynamic Orrery Project
-An interactive, real-time orrery that visually simulates planetary motions and orbits with accurate positions and speeds.
 
-# Features:
-Realistic planetary movements and orbital paths.
-Enhanced animation performance with optimized rendering efficiency.
-Fully responsive design for seamless viewing on all devices.
+---
 
-# Technologies:
-HTML
-CSS
-JavaScript
-Three.js
+## 🌐 Live Demo
+Check out the live version here: [Dynamic Orrery Model](https://anjaniballaa.github.io/Dynamic-Orrery-of--planets/)
 
-# How to Run
-!. Clone the repository:
-git clone [https://github.com/your-username/dynamic-orrery.git](https://anjaniballaa.github.io/Dynamic-Orrery-of--planets/)
-2. Open home.html in your browser to start the simulation.
-
-Future Improvements
-Add more planets and moons for an expanded solar system.
-Introduce adjustable time scales for faster/slower orbital views.
-Contributing
-
-# Feel free to open issues or make pull requests to contribute to this project.
+Happy coding! 🚀
+```
 
