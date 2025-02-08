@@ -19,7 +19,7 @@ Three.js
 
 # How to Run
 !. Clone the repository:
-git clone https://github.com/your-username/dynamic-orrery.git
+git clone [https://github.com/your-username/dynamic-orrery.git](https://anjaniballaa.github.io/Dynamic-Orrery-of--planets/)
 2. Open home.html in your browser to start the simulation.
 
 Future Improvements
