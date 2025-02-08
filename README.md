@@ -1,4 +1,3 @@
-```markdown
 # NASA Orrery Model of Planets
 
 An interactive, real-time orrery that visually simulates planetary motions and orbits with accurate positions and speeds. This project was contributed to NASA as part of an initiative to create an engaging and educational planetary model.
@@ -39,10 +38,6 @@ cd dynamic-orrery
 We welcome contributions! Feel free to:
 - Open issues for bug reports or feature requests.
 - Submit pull requests with improvements or new features.
-
-## ⚠️ License and Usage
-This code is proprietary and confidential. Unauthorized use, copying, modification, or distribution is strictly prohibited without prior written permission from the author.
-
 ---
 
 ## 🌐 Live Demo
